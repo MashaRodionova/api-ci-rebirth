@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jl39gbn5b6shjriu?svg=true)]
+[![Build status](https://ci.appveyor.com/api/projects/status/jl39gbn5b6shjriu?svg=true)](https://ci.appveyor.com/project/MashaRodionova/api-ci-rebirth)
