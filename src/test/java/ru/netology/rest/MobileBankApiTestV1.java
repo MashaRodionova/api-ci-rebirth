@@ -21,7 +21,7 @@ class MobileBankApiTestV1 {
                 .statusCode(200)
                 .body("[0].currency", equalTo("RUB"))
                 .body("[1].currency", equalTo("USD"))
-        // .body("every {it.currency = RUB", is(true))
+                .body("every {it.currency = RUB", is(true))
         ;
     }
 }
